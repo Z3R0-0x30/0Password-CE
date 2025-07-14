@@ -1,4 +1,4 @@
-## 🔐 0Password \~ by Z3R0
+## 🔐 0Password \~ by Prince Patel (0x30)
 
 A sleek, secure, and offline password manager built entirely in Python. `0Password` is designed for cybersecurity enthusiasts and privacy-conscious users who prefer complete control over their credentials without depending on cloud-based services.
 
